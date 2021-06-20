@@ -1,19 +1,17 @@
 # learning-resouces-vue
 
+A dummy project made to practice Vue.js
+
+## Deployed App
+
+https://learning-resources-app-vue.vercel.app/
+
 ## Project setup
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Credits
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://www.udemy.com/course/vuejs-2-the-complete-guide/
